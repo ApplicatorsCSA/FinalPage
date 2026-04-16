@@ -1,0 +1,91 @@
+# PVO Infographic
+Title: "Poway Veterans Organization (PVO)"
+Description: "We built three tools to make it faster and easier for veterans to get help, sign up to volunteer, and find answers — enhancing powayveterans.org into a guided local support portal."
+
+Topics:
+  - title: "Get Help Hub"
+    image: "capstone/poway-veterans-logo.png"
+    link: "https://pvo.opencodingsociety.com/MelTitanic"
+    alt: "PVO Get Help Hub - Veteran Support Pathway"
+    keyPoints:
+      - "Cuts the time veterans spend figuring out if they qualify — answered in seconds"
+      - "Covers all aid categories: rent, utilities, food, transportation, home repair, and emergency hardship"
+      - "Surfaces the documents checklist before the form — no more incomplete submissions"
+      - "Sets clear response time expectations so veterans aren't left wondering"
+      - "Mobile-friendly layout built for veterans applying under stress"
+      - "Lists urgent and outside-PVO resources for cases that need immediate action"
+      - "Privacy-first language that builds trust from the first line"
+      - "Guides users from 'Do I qualify?' to a submitted request in 3 clear steps"
+    subtitle: "Turning a Confusing Page Into a Guided Support Pathway"
+    description: "We built a single, structured landing page that answers every critical question a veteran has before they apply — cutting confusion, reducing incomplete submissions, and getting more people to a submitted request faster. Instead of broad language and a raw form, veterans now get a clear pathway: check eligibility, see exactly what documents to bring, and submit with confidence."
+    tech:
+      - "Eligibility Guide"
+      - "Document Checklist"
+      - "Step-by-Step Flow"
+      - "Mobile Optimized"
+      - "Local Resource Links"
+    impact:
+      - "Fewer incomplete applications reaching PVO volunteers"
+      - "Veterans spend less time confused and more time getting help"
+      - "Covers rent, utilities, food, transport, home repair, and emergency hardship"
+      - "Serves veterans and families across Poway, Ramona, and surrounding San Diego communities"
+      - "Builds trust from the first visit with clear, privacy-first language"
+   
+
+  - title: "New Volunteer Form"
+    image: "capstone/poway-veterans-logo.png"
+    link: "https://pvo.opencodingsociety.com/volunteer"
+    alt: "PVO Volunteer Onboarding Form Redesign"
+    keyPoints:
+      - "Shows volunteers what they'll actually do before asking them to sign up"
+      - "Role categories clearly defined: home repair, events, outreach, admin, transport, and skilled trades"
+      - "Time commitment and skill-level guidance listed per role — no guessing"
+      - "Group and corporate volunteer info for team and company sign-ups"
+      - "Streamlined form that takes under 2 minutes to complete"
+      - "Impact story woven in — connects the sign-up to real veterans helped"
+      - "Campaign-based giving options for donors who want to do more"
+      - "Built for both first-time and returning volunteers"
+    subtitle: "Sell the Opportunity First, Then Ask for the Sign-Up"
+    description: "We redesigned the volunteer experience to lead with the opportunity — showing role types, time expectations, and real examples of work done — before ever asking for personal information. This means higher-quality sign-ups, fewer no-shows, and volunteers who arrive already understanding their impact. The form itself takes under 2 minutes, removing every reason to abandon mid-way."
+    tech:
+      - "Role Descriptions"
+      - "Time Commitment Guide"
+      - "Streamlined Form"
+      - "Group Sign-Up Support"
+      - "Impact Storytelling"
+    impact:
+      - "Higher-quality volunteer sign-ups with clearer expectations set upfront"
+      - "Fewer no-shows from volunteers who didn't understand what they were signing up for"
+      - "Opens a clear path for corporate and group volunteers"
+      - "Connects donors and volunteers through shared impact storytelling"
+      - "Strengthens PVO's 100% volunteer-operated model with smarter onboarding"
+
+
+
+  - title: "PVO Chatbot"
+    image: "capstone/poway-veterans-logo.png"
+    link: "https://pvo.opencodingsociety.com/pvo-chatbot/"
+    alt: "PVO AI Chatbot for Veteran Support"
+    keyPoints:
+      - "Answers common questions instantly — available 24/7, no wait time"
+      - "Guides veterans to the right resource without them having to search"
+      - "Trained on PVO-specific information: eligibility, process, and local partners"
+      - "Handles after-hours inquiries so no one leaves empty-handed"
+      - "Reduces repetitive calls and emails to PVO volunteers"
+      - "Connects users directly to the Get Help Hub, volunteer form, and local resources"
+      - "Plain-language responses built for clarity, not jargon"
+      - "Escalates to human contact when a question goes beyond its scope"
+    subtitle: "An Always-On Assistant That Gets Veterans to the Right Answer Faster"
+    description: "We built an AI-powered chatbot trained specifically on PVO's programs, eligibility rules, and local partner network. It answers the questions veterans ask most — instantly, at any hour — and routes them directly to the right page or resource. This means fewer veterans falling through the cracks after hours, and less repetitive Q&A load on PVO's all-volunteer team."
+    tech:
+      - "AI-Powered Responses"
+      - "PVO-Specific Training"
+      - "24/7 Availability"
+      - "Human Escalation"
+    impact:
+      - "Veterans get answers immediately instead of waiting for a callback"
+      - "Extends PVO's reach beyond business hours with zero added staffing cost"
+      - "Reduces repetitive Q&A burden on PVO's all-volunteer team"
+      - "Routes users directly to the Get Help Hub, cutting drop-off"
+      - "Supports elderly and disabled veterans who benefit from a conversational interface"
+ 
